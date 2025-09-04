@@ -36,7 +36,7 @@ A full-stack todo list application built with Spring Boot and vanilla JavaScript
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/abbas17kh/dotolist
 cd dotolist
 ```
 
